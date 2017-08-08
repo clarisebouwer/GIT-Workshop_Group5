@@ -9,3 +9,14 @@ C:\Users\Quintin\Desktop\Git\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git
 C:\Users\Quintin\Desktop\Git\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.csproj.GenerateResource.Cache
 C:\Users\Quintin\Desktop\Git\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.exe
 C:\Users\Quintin\Desktop\Git\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.pdb
+C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\bin\Debug\Git_Group5_WorkshopHomework.exe.config
+C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.exe
+C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.pdb
+C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\bin\Debug\Git_Group5_WorkshopHomework.exe
+C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\bin\Debug\Git_Group5_WorkshopHomework.pdb
+C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.Main.resources
+C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.NForm.resources
+C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.Properties.Resources.resources
+C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.Qform.resources
+C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.csproj.GenerateResource.Cache

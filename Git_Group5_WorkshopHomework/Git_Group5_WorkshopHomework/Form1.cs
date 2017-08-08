@@ -23,5 +23,12 @@ namespace Git_Group5_WorkshopHomework
             Qform Quintin = new Qform();
             Quintin.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            NForm Nico = new NForm();
+            Nico.Show();
+        }
     }
 }
