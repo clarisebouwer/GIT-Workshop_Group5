@@ -29,6 +29,7 @@ namespace Git_Group5_WorkshopHomework
             Quintin.Show();
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -44,5 +45,14 @@ namespace Git_Group5_WorkshopHomework
 >>>>>>> Stashed changes
 =======
 >>>>>>> develop
+=======
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            NForm Nico = new NForm();
+            Nico.Show();
+        }
+>>>>>>> master
     }
 }
