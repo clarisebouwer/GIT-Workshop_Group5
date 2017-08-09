@@ -12,6 +12,7 @@ namespace Git_Group5_WorkshopHomework
 {
     public partial class Qform : Form
     {
+        testInterger testint = new testInterger();
         public Qform()
         {
             InitializeComponent();
@@ -35,17 +36,22 @@ namespace Git_Group5_WorkshopHomework
                 int myRandomNumbers = Convert.ToInt16(txtnum.Text);
                 List<int> data = new List<int>();
 
-
-                // Create the random object
-                Random rand = new Random();
-
-                for (int i = 0; i < myRandomNumbers; i++)
+                if (testint.checkint(myRandomNumbers) == true)
                 {
-                    // Create the list of random numbers
-                    result = rand.Next(1, 101);
-                    data.Add(result);
+
+                    // Create the random object
+                    Random rand = new Random();
+
+                    for (int i = 0; i < myRandomNumbers; i++)
+                    {
+                        // Create the list of random numbers
+                        result = rand.Next(1, 101);
+                        data.Add(result);
+                    }
+                    MessageBox.Show("The sum of the random numbers is:" + data.Sum().ToString());
                 }
-                MessageBox.Show("The sum of the random numbers is:" + data.Sum().ToString());
+                else
+                    MessageBox.Show("Please enter a valid number");
             }
             catch (FormatException )
             {
