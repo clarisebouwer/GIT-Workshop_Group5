@@ -30,5 +30,12 @@ namespace Git_Group5_WorkshopHomework
             NForm Nico = new NForm();
             Nico.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Clarise clara = new Clarise();
+            clara.Show();
+        }
     }
 }
