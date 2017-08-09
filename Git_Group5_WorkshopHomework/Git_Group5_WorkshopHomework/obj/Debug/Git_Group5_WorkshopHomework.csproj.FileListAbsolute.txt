@@ -20,3 +20,4 @@ C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\G
 C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.Properties.Resources.resources
 C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.Qform.resources
 C:\Users\User\Desktop\prakties\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.csproj.GenerateResource.Cache
+C:\Users\Quintin\Desktop\Git\GIT-Workshop_Group5\Git_Group5_WorkshopHomework\Git_Group5_WorkshopHomework\obj\Debug\Git_Group5_WorkshopHomework.NForm.resources
