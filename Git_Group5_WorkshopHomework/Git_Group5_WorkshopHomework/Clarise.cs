@@ -19,6 +19,7 @@ namespace Git_Group5_WorkshopHomework
 
         private void btnRan_Click(object sender, EventArgs e)
         {
+            //List
             List<int> randomList = new List<int>();
             int n = Convert.ToInt16(txtRan.Text);
             int r;
@@ -29,7 +30,7 @@ namespace Git_Group5_WorkshopHomework
                 r = rand.Next(1, 50);
                 randomList.Add(r);
             }
-
+            //Ans
             MessageBox.Show((randomList.Max() - randomList.Min()).ToString());
         }
 
