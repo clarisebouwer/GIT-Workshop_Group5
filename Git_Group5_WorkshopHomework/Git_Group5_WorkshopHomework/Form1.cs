@@ -16,8 +16,11 @@ namespace Git_Group5_WorkshopHomework
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> develop
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -25,6 +28,7 @@ namespace Git_Group5_WorkshopHomework
             Qform Quintin = new Qform();
             Quintin.Show();
         }
+<<<<<<< HEAD
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -38,5 +42,7 @@ namespace Git_Group5_WorkshopHomework
             df.Show();
         }
 >>>>>>> Stashed changes
+=======
+>>>>>>> develop
     }
 }
