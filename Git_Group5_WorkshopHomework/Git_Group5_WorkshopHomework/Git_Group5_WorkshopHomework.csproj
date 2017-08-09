@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DewaldtFeature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DewaldtFeature.Designer.cs">
+      <DependentUpon>DewaldtFeature.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +60,25 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> develop
+    <Compile Include="Qform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qform.Designer.cs">
+      <DependentUpon>Qform.cs</DependentUpon>
+    </Compile>
+<<<<<<< HEAD
+    <Compile Include="testInterger.cs" />
+    <EmbeddedResource Include="DewaldtFeature.resx">
+      <DependentUpon>DewaldtFeature.cs</DependentUpon>
+    </EmbeddedResource>
+>>>>>>> Stashed changes
+=======
+>>>>>>> develop
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -66,6 +91,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Qform.resx">
+      <DependentUpon>Qform.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

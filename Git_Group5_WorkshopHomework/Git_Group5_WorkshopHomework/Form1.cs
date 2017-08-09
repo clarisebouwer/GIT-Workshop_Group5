@@ -16,5 +16,33 @@ namespace Git_Group5_WorkshopHomework
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> develop
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Qform Quintin = new Qform();
+            Quintin.Show();
+        }
+<<<<<<< HEAD
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            this.Show();
+            DewaldtFeature df = new DewaldtFeature();
+            df.Show();
+        }
+>>>>>>> Stashed changes
+=======
+>>>>>>> develop
     }
 }
